@@ -142,3 +142,16 @@ form .row input::placeholder {
   color: #000;
   cursor: pointer;
 }
+
+.selectbox111111111111 {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 100%;
+  font-size: 1.15rem;
+  padding: 0.505em 7em 0.405em 1em;
+  background-color: #fff;
+  border: 1px solid #caced1;
+  border-radius: 0.25rem;
+  color: #000;
+  cursor: pointer;
+}
